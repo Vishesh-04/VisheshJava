@@ -3,7 +3,7 @@
 // *         *
 // *         *
 // * * * * * *
-public class Pattern0
+public class PatternO
 {
     public static void main(String args[])
     {
