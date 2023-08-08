@@ -1,0 +1,6 @@
+Q1. What is Mutable String in Java Explain with an example.
+A1. Mutable String is String whose Value can be altered without changing the referenced object.
+Example of such String are StringBuilder and StringBuffer.
+
+Eg:-  StringBuffer s1 = new StringBuffer ("Sachin");
+      StringBuilder s2 = new StringBuilder ("Sachin"); 
